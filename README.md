@@ -1,8 +1,11 @@
+<p align="center">
+  <img src="assets/images/HajarAsas_Logo.png" alt="HajarAsas Project Logo" width="50" height="50">
+</p>
 # 🧱 HajarAsas Financial Analysis Project | Block Factory Financial Health
 
 ### 📊 **Status:** Core Financial Analysis Completed
 
-[![Project Status: Active](https://img.shields.io/badge/Status-Analysis_Completed-blue.svg)]()
+[![Project Status: Analysis Completed](https://img.shields.io/badge/Status-Analysis_Completed-blue.svg)]()
 [![Analysis Tool: Python](https://img.shields.io/badge/Tool-Python_Pandas-yellow.svg)]()
 [![Visualization: Matplotlib/Seaborn](https://img.shields.io/badge/Visualization-Matplotlib/Seaborn-red.svg)]()
 
@@ -34,10 +37,10 @@ Following the Data Preparation and Analysis phases, the following critical insig
 
 The project adheres to a standard, professional data analysis methodology, organized into dedicated stages:
 
-1. **`1_datasets/`**: Stores raw source data and the final cleaned datasets.
-2. **`2_data_preparation/`**: Contains Python scripts for cleaning, unifying, and preparing data for analysis.
-3. **`3_data_analysis/`**: Contains Jupyter Notebooks used for statistical analysis and visualization.
-4. **`4_communication/`**: The final folder containing the management report and recommendations document.
+* **`1_datasets/`**: Stores raw source data and the final cleaned datasets.
+* **`2_data_preparation/`**: Contains Python scripts for cleaning, unifying, and preparing data for analysis.
+* **`3_data_analysis/`**: Contains Jupyter Notebooks used for statistical analysis and visualization.
+* **`4_communication/`**: The final folder containing the management report and recommendations document.
 
 ### 🔗 Detailed Work Artifacts (Relative Links)
 
