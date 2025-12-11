@@ -1,0 +1,28 @@
+name: Python Code Style Check (Flake8)
+
+on:
+  push:
+    branches: [ main ] # Run on every push to the main branch
+  pull_request:
+    branches: [ main ] # Run on every Pull Request aimed at main
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest # Use a Linux environment for running the check
+
+    steps:
+    - uses: actions/checkout@v3 # Step 1: Clone your repository's code
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.x' # Use any available Python 3 version
+
+    - name: Install Flake8 Linter
+      run: pip install flake8
+
+    - name: Run Flake8 Code Check
+      run: |
+        # Flake8 will check the current directory ('.')
+        # We exclude folders that are non-code or large data
+        flake8 . --count --exit-code --exclude .git,.github,__pycache__,.ipynb_checkpoints,1_datasets,venv,4_communication
