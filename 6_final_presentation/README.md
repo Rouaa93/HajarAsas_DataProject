@@ -11,7 +11,7 @@ This is the main communication piece designed to secure executive buy-in and act
 ### Presentation Deck
 
 * **File Name:** HajarAsas Project.pdf (Stored on Google Drive)
-* **Link:** **[Our Final Presentation Slides: Click to View and Explore the Strategic Roadmap](https://drive.com/file/d/1-8SDyFcJ9e6X1k4TTEyakeKByNTh_BQB/view?usp=sharing)**
+* **Link:** **[Our Final Presentation Slides: Click to View and Explore the Strategic Roadmap](https://drive.google.com/file/d/1-8SDyFcJ9e6X1k4TTEyakeKByNTh_BQB/view?usp=sharing)**
 * **Objective:** To deliver a decisive **10-slide narrative** focusing on the CapEx/Opex imbalance and the urgent need to address the Rent risk (31.10% Opex).
 
 ---
