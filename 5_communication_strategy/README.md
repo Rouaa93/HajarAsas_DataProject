@@ -8,7 +8,7 @@ This directory contains the final deliverables of the HajarAsas Financial Analys
 
 | File Name | Description | Status |
 | :--- | :--- | :--- |
-| `Recommendations_Report.pdf` | The core management document containing the Executive Summary, Key Findings, and Strategic Recommendations. | **Awaiting Formatting** |
+| `Recommendations.md` | The core management document containing the Executive Summary, Key Findings, and Strategic Recommendations. | **Awaiting Formatting** |
 | `README.md` | Documentation of the Communication Phase. | **Complete** |
 
 ## Primary Objective
