@@ -1,0 +1,10 @@
+// .vscode/extensions.json
+{
+    "recommendations": [
+        "ms-python.python", // Core Python support
+        "ms-toolsai.jupyter", // Jupyter Notebook support
+        "esbenp.prettier-vscode", // For formatting YAML, JSON, and Markdown files (like READMEs)
+        "visualstudioexptteam.vscodeintellicode", // AI-assisted code completions
+        "charliermarsh.ruff" // A modern, fast linter alternative (optional, but good practice)
+    ]
+}

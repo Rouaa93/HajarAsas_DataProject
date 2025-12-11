@@ -1,0 +1,22 @@
+// .vscode/settings.json
+{
+    // Sets the default Python interpreter path (Adjust 'venv' if your virtual environment has a different name)
+    "python.defaultInterpreterPath": "./venv/Scripts/python.exe",
+    
+    // Enables formatting for Jupyter Notebooks
+    "notebook.format.enabled": true,
+
+    // General linting settings (Using Flake8 as recommended for quality checks)
+    "python.linting.enabled": true,
+    "python.linting.lintOnSave": true,
+    "python.linting.flake8Enabled": true,
+    
+    // Run organization of imports on save
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+    },
+    
+    // Sets standard indentation size for consistency
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true
+}
