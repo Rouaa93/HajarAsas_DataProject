@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/HajarAsas_Logo.png" alt="HajarAsas Project Logo" width="50" height="50">
+  <img src="assets/images/HajarAsas_Logo.png" alt="HajarAsas Project Logo" width="55" height="55">
 </p>
 # 🧱 HajarAsas Financial Analysis Project | Block Factory Financial Health
 
