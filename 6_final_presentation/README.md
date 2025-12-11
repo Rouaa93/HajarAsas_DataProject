@@ -1,50 +1,23 @@
-# 📢 HAJARASAS PROJECT: EXECUTIVE SUMMARY & IMMEDIATE ACTION PLAN
+# 🎤 5. Final Presentation: The Roadmap to Financial Efficiency
 
-## 🗓️ Date: December 2025
-
-## 🎯 PROJECT STATUS: Financial Analysis Completed
+This folder contains the crucial final presentation materials summarizing our entire financial analysis journey for the HajarAsas Project. We've come a long way from raw expense logs to strategic executive recommendations!
 
 ---
 
-## 1. STRATEGIC OVERVIEW
+## 📊 Presentation Deliverable
 
-The HajarAsas Block Factory has successfully navigated its initial high-cost setup phase (Months 6-7). The focus must now shift entirely to **cost discipline** and **asset data verification** to secure long-term profitability.
+This is the main communication piece designed to secure executive buy-in and action on cost control.
 
-### The Problem: Financial Imbalance
+### Presentation Deck
 
-Our analysis reveals a critical imbalance favoring short-term costs over long-term investment:
-
-* **Opex Dominance:** Operational costs consumed **99.03%** of the total financial outlay.
-* **CapEx Imbalance:** The CapEx/Opex Ratio is **0.01**.
-
----
-
-## 2. CRITICAL FINDINGS & EVIDENCE
-
-| Finding | Metric | Supporting Evidence | Visual Aid (Reference) |
-| :--- | :--- | :--- | :--- |
-| **P1: Opex Concentration** | **Rent = 31.10%** of Total Opex | Rent is the single, largest, and most controllable expense, demanding immediate executive attention. | [Opex by Category Bar Chart] |
-| **P2: Data Integrity Risk** | CapEx Price Data is **Incomplete** | The low CapEx ratio is likely inaccurate due to **missing prices for vital assets**, distorting total project investment. | [CapEx vs. Opex Pie Chart] |
-| **P3: Operational Stability** | Spending Dropped **76.6%** after Month 7 | Confirms successful transition from high setup costs to a sustainable operational baseline. | [Monthly Spending Line Plot] |
+* **File Name:** HajarAsas Project.pdf (Stored on Google Drive)
+* **Link:** **[Our Final Presentation Slides: Click to View and Explore the Strategic Roadmap](https://drive.com/file/d/1-8SDyFcJ9e6X1k4TTEyakeKByNTh_BQB/view?usp=sharing)**
+* **Objective:** To deliver a decisive **10-slide narrative** focusing on the CapEx/Opex imbalance and the urgent need to address the Rent risk (31.10% Opex).
 
 ---
 
-## 3. IMMEDIATE EXECUTIVE ACTION PLAN
+## ✨ Behind the Scenes
 
-The following three actions are prioritized to maximize project efficiency and correct data deficiencies:
+We prepared these slides to showcase the journey of our research—from data cleaning and uncovering the **31.10% Rent concentration**, to analyzing the **low 0.01 CapEx ratio**, and finally highlighting the three essential actions required for immediate cost correction.
 
-### A. 💰 Cost Control Priority: Renegotiate Lease Agreement
-
-* **ACTION:** Immediately mandate a review of the current lease (Rent) contract. A successful renegotiation is the single largest potential saving opportunity for the project.
-
-### B. 🛡️ Data Quality Action: Asset Valuation Audit
-
-* **ACTION:** Assign responsibility to complete the **valuation and entry of all missing asset prices** in the Capital file. This is crucial for accurate financial reporting and asset depreciation calculations.
-
-### C. 📈 Planning: Adjust Budgeting Baseline
-
-* **ACTION:** Use the **average spending from the stable operational period (Month 8 onwards)** as the realistic baseline for all future budget forecasts, instead of the high initial setup months.
-
----
-**Prepared by:** Data Analyst Team
-**Data Source:** Internal HajarAsas Financial Registers (Months 6 - 9)
+The big day will be our chance to present all our work, share actionable insights, and celebrate transforming raw numbers into a clear, engaging story about financial stability and efficiency.
